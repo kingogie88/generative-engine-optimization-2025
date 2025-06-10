@@ -1,0 +1,47 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build and compilation
+*.pdf
+*.docx
+*.xlsx
+/dist/
+/build/
+
+# Private or sensitive data
+.env
+.env.*
+credentials.json
+*-private.*
+
+# Working directories
+/working/
+/drafts/
+/temp/
+/tmp/
+
+# Large media files
+*.mp4
+*.mov
+*.wmv
+*.avi
+*.psd
+*.ai 
